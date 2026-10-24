@@ -40,13 +40,19 @@ I'm a Computer Science graduate (COMSATS University Islamabad) with a data analy
 
 ## 🎓 Education & Certifications
 
-- 🎓 BS Computer Science, **COMSATS University Islamabad**
-- - 🔄 **CAPM** (Certified Associate in Project Management, PMI): *in progress*
- 
-  - ---
+**Education:** BS Computer Science, COMSATS University Islamabad
 
-  ## 📫 Contact
+| Certification | Issuer | Status |
+|---|---|---|
+| CAPM (Certified Associate in Project Management) | PMI | 🔄 In progress |
+| Agile Project Management | HP | ✅ Jul 2026 |
+| Data Science & Analytics | HP | ✅ Jul 2026 |
+| Project Management Fundamentals | IBM | ✅ Jul 2026 |
+| Business Analysis & Process Management | Coursera | ✅ Dec 2025 |
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sufian)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sufian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
