@@ -32,7 +32,7 @@ I'm a Technical Project Manager with a Computer Science degree (COMSATS Universi
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Project Status Dashboard**](https://github.com/RAJA-SUFIAN/Project-Status-Dashboard) | Rolls 40 tasks across 8 phases (sample project) into one Red/Amber/Green status from CPI and SPI, with a forecast at completion | Python, Streamlit, Plotly |
+| [**Project Status Dashboard**](https://github.com/RAJA-SUFIAN/Project-Status-Dashboard) | Rolls 40 tasks across 8 phases (sample project) into one Red/Amber/Green status from CPI and SPI, with a forecast at completion. [**Live demo →**](https://raja-project-status.streamlit.app) | Python, Streamlit, Plotly |
 | [**Sprint Metrics Analyzer**](https://github.com/RAJA-SUFIAN/Sprint-Metrics-Analyzer) | Turns a Jira-style export into velocity, burndown and cycle-time stats (mean, P85, P95) over 6 sprints; the live dashboard refreshes within ~2 seconds of any data change | Python, Jira, Agile |
 | [**PM Autopilot**](https://github.com/RAJA-SUFIAN/Autopilot) | Meeting notes in; minutes, task tracker, reminders, weekly RAG report and calendar invites out. Free to run, and nothing is emailed without confirmation | Python, Automation |
 
