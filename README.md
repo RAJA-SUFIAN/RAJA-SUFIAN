@@ -1,16 +1,22 @@
 # Hi, I'm Raja Sufian 👋
 
-**Technical Project Manager | Agile & SDLC Delivery | Data Analytics**
+**IT Manager & Technical Project Manager | Infrastructure, Agile Delivery & Data Analytics**
 
 📍 Open to on-site / hybrid roles in Riyadh, Saudi Arabia 🇸🇦
 
-I'm a Technical Project Manager with a Computer Science degree (COMSATS University Islamabad) and a data analytics foundation. I combine data and delivery: burn-down, velocity and risk exposure become forecasts, so teams can see what will slip before it slips.
+I'm an IT Manager with 3 years of experience leading a team of 15, and a Technical Project Manager with a Computer Science degree (COMSATS University Islamabad) and a data analytics foundation. I run the systems, vendors and people that keep technology reliable, and I deliver change on time: burn-down, velocity and risk exposure become forecasts, so teams can see what will slip before it slips.
 
 ---
 
 ## 🛠️ Skills
 
-**Project Management & Delivery**
+### IT Management & Operations
+![IT Operations](https://img.shields.io/badge/IT_OPERATIONS-0f3d5e?style=flat-square)
+![Team Leadership](https://img.shields.io/badge/TEAM_LEADERSHIP-1d4ed8?style=flat-square)
+![Cloud](https://img.shields.io/badge/CLOUD_&_INFRASTRUCTURE-0891b2?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-b91c1c?style=flat-square)
+![ITIL](https://img.shields.io/badge/ITIL-475569?style=flat-square)
+![Vendor Management](https://img.shields.io/badge/VENDOR_MANAGEMENT-7c3aed?style=flat-square)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-FF6F00?style=for-the-badge)
